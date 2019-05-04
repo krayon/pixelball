@@ -1,0 +1,99 @@
+{{{
+       .__              .__ ___.          .__  .__   
+______ |__|__  ___ ____ |  |\_ |__ _____  |  | |  |  
+\____ \|  \  \/  // __ \|  | | __ \\__  \ |  | |  |  
+|  |_> >  |>    <\  ___/|  |_| \_\ \/ __ \|  |_|  |__
+|   __/|__/__/\_ \\___  >____/___  (____  /____/____/
+|__|            \/    \/         \/     \/           
+}}}
+= PixelBall =
+
+== An orb lamp powered by ESP8266 and WS2811/WS2812 ==
+
+=== //Look into my pixel ball...// ===
+
+== Introduction ==
+
+I purchased a cheap light fitting/cover from the Op-Shop for a dollar or two and
+thought I'd turn it into a bedside lamp. The light fitting is a simple orb,
+reminiscent of a //crystal ball// (hence the name //pixelball//).
+
+== Diary ==
+
+See the separate [[DIARY.creole|diary page]].
+
+== Hardware ==
+
+//**NOTE: I'm in Australia, so that's my supply perspective.**//
+
+=== Light Fitting ===
+
+A light fitting ($2). It's a simple orb, reminiscent of a //crystal ball//:
+
+{{imgs/light_fitting.thumb.jpg|Light Fitting}}
+//[[imgs/light_fitting.jpg|FULL SIZE]]//
+
+=== (u)Processor ===
+
+//ESP8266// in it's //ESP-01// format.
+
+* //TODO: Picture//
+
+=== Lighting ===
+
+Lighting will be provided by a SMD 5050 RGB LED, driven by a WS2811 (or WS2812B
+these days). I have single modules of this already, having purchased a bag from
+eBay for maybe $5.  They are nice and small and you can get the same thing for
+$0.11 - $0.12 by cutting up a strip, like one from
+[[https://www.ebay.com.au/itm/5m-WS2812B-ws2812-5050-RGB-5V-Full-color-Addressable-waterproof-led-Strip-light/323633345190|this eBay seller]]
+(60leds/m, non-waterproof, 50cm, white PCB).
+
+* //TODO: Picture//
+
+== Availability ==
+
+Available at
+[[https://gitlab.com/krayon/pixelball|GitLab]]
+or
+[[https://github.com/krayon/pixelball|GitHub]]
+.
+
+== Schematic ==
+
+* //**TODO: Schematic**//
+
+== Software ==
+
+* //**TODO: Software**//
+
+== Bug Tracker ==
+
+Not yet.
+
+== Usage ==
+
+Not yet.
+
+== History ==
+
+Not much yet.
+
+== Features ==
+
+Nothing yet.
+
+== Version History ==
+
+* v0.0.1
+** Nothing yet.
+
+== TODO ==
+
+* Design it.
+* Make it.
+
+== Notes ==
+
+None yet.
+
+<<< vim:set ts=4 sw=4 tw=80 et cindent ai si syn=creole: >>>
