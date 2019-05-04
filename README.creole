@@ -18,6 +18,8 @@ I purchased a cheap light fitting/cover from the Op-Shop for a dollar or two and
 thought I'd turn it into a bedside lamp. The light fitting is a simple orb,
 reminiscent of a //crystal ball// (hence the name //pixelball//).
 
+//(figlet font used above: **graffiti**)//
+
 == Diary ==
 
 See the separate [[DIARY.creole|diary page]].
@@ -31,11 +33,12 @@ See the separate [[DIARY.creole|diary page]].
 A light fitting ($2). It's a simple orb, reminiscent of a //crystal ball//:
 
 {{imgs/light_fitting.thumb.jpg|Light Fitting}}
+
 //[[imgs/light_fitting.jpg|FULL SIZE]]//
 
 === (u)Processor ===
 
-//ESP8266// in it's //ESP-01// format.
+//ESP8266// (in a //ESP-01// module).
 
 * //TODO: Picture//
 
