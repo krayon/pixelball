@@ -69,15 +69,15 @@ The schematic is below. It's [[https://fritzing.org/|Fritzing]] project file (
 [[pixelball.fzz]]
 ) was used to generate these images.
 
-{{imgs/pixelball.v0.01.SCHEMATIC.thumb.jpg|Circuit Test}}
+{{imgs/pixelball.v0.01.SCHEMATIC.thumb.png|Circuit Test}}
 
-//[[imgs/pixelball.v0.01.SCHEMATIC.jpg|FULL SIZE]]//
+//[[imgs/pixelball.v0.01.SCHEMATIC.png|FULL SIZE]]//
 
 === Breadboarded ===
 
-{{imgs/pixelball.v0.01.BB.thumb.jpg|Circuit Test}}
+{{imgs/pixelball.v0.01.BB.thumb.png|Circuit Test}}
 
-//[[imgs/pixelball.v0.01.BB.jpg|FULL SIZE]]//
+//[[imgs/pixelball.v0.01.BB.png|FULL SIZE]]//
 
 == Software ==
 
