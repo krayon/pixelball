@@ -12,4 +12,22 @@ ______ |__|__  ___ ____ |  |\_ |__ _____  |  | |  |   \______ \ |__|____ _______
 
 Project underway!
 
+== 2019-05-19 ==
 
+Basic circuit defined and working.
+
+{{imgs/circuit_test.thumb.jpg|Circuit Test}}
+
+//[[imgs/circuit_test.jpg|FULL SIZE]]//
+
+Schematic:
+
+{{imgs/pixelball.v0.01.SCHEMATIC.thumb.jpg|Circuit Test}}
+
+//[[imgs/pixelball.v0.01.SCHEMATIC.jpg|FULL SIZE]]//
+
+Breadboarded:
+
+{{imgs/pixelball.v0.01.BB.thumb.jpg|Circuit Test}}
+
+//[[imgs/pixelball.v0.01.BB.jpg|FULL SIZE]]//

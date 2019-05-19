@@ -51,7 +51,9 @@ $0.11 - $0.12 by cutting up a strip, like one from
 [[https://www.ebay.com.au/itm/5m-WS2812B-ws2812-5050-RGB-5V-Full-color-Addressable-waterproof-led-Strip-light/323633345190|this eBay seller]]
 (60leds/m, non-waterproof, 50cm, white PCB).
 
-* //TODO: Picture//
+{{imgs/circuit_test.thumb.jpg|Circuit Test}}
+
+//[[imgs/circuit_test.jpg|FULL SIZE]]//
 
 == Availability ==
 
@@ -63,7 +65,19 @@ or
 
 == Schematic ==
 
-* //**TODO: Schematic**//
+The schematic is below. It's [[https://fritzing.org/|Fritzing]] project file (
+[[pixelball.fzz]]
+) was used to generate these images.
+
+{{imgs/pixelball.v0.01.SCHEMATIC.thumb.jpg|Circuit Test}}
+
+//[[imgs/pixelball.v0.01.SCHEMATIC.jpg|FULL SIZE]]//
+
+=== Breadboarded ===
+
+{{imgs/pixelball.v0.01.BB.thumb.jpg|Circuit Test}}
+
+//[[imgs/pixelball.v0.01.BB.jpg|FULL SIZE]]//
 
 == Software ==
 
